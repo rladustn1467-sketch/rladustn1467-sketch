@@ -10,7 +10,7 @@ https://arcade.makecode.com/S85322-72037-08507-30921
 <img width="638" height="747" alt="Screenshot 2026-08-11 142353" src="https://github.com/user-attachments/assets/dc96901c-93dd-4861-98fb-aa7efe41fb56" />
 
 ### 팩맨 스타일 게임
-https://arcade.makecode.com/50182-50048-08094-09204
+https://arcade.makecode.com/50182-50048-08094-09204   
 *메이크 코드 아케이드*를 통해 만든 팩맨 스타일의 게임입니다.    
 <img width="628" height="740" alt="Screenshot 2026-08-11 142825" src="https://github.com/user-attachments/assets/dcb91ed5-5d06-498e-ac77-01d25c220c91" />
 

@@ -22,6 +22,5 @@
 
 ## 링크 넣기
 *링크*를 넣어보겠습니다.  
-- 깃허브링크 https://github.com/rladustn1467-sketch
-- 
+- 깃허브링크 https://github.com/rladustn1467-sketch   
 

@@ -15,3 +15,9 @@
 아야어여
 어여우유
 ㅢㅢ
+
+## 그림 넣기
+1. 그림을 넣어
+2. 보겠습니다
+3. 가져온 그림 캡쳐해서 붙여넣기
+<img width="330" height="137" alt="image" src="https://github.com/user-attachments/assets/439e39b0-df96-4c02-8875-37a6575f1e60" />

@@ -23,6 +23,6 @@ https://arcade.makecode.com/50182-50048-08094-09204
 
 **2. 스파이더맨 브랜드 뉴 데이**   
 <img width="266" height="382" alt="Screenshot 2026-08-11 140703" src="https://github.com/user-attachments/assets/78c373b7-4652-43a1-99b7-95d207a9f43f" />
-
+ 
 
 

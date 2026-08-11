@@ -27,3 +27,5 @@ https://arcade.makecode.com/50182-50048-08094-09204
 
 ## 아이디어
 
+## 공부중
+코딩 자격증 https://github.com/rladustn1467-sketch/

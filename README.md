@@ -3,7 +3,8 @@
 *바이오 헬스 아카데미* 수업을 듣고 있습니다. 
 
 ## 만들어 본 게임
-https://arcade.makecode.com/S85322-72037-08507-30921
+https://arcade.makecode.com/S85322-72037-08507-30921   
+<img width="638" height="747" alt="Screenshot 2026-08-11 142353" src="https://github.com/user-attachments/assets/dc96901c-93dd-4861-98fb-aa7efe41fb56" />
 
 
 

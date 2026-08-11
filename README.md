@@ -20,6 +20,6 @@
 <img width="330" height="137" alt="image" src="https://github.com/user-attachments/assets/439e39b0-df96-4c02-8875-37a6575f1e60" />
 
 ## 링크 넣기
-*링크*를 넣어보겠습니다. 
+*링크*를 넣어보겠습니다.  
 - 깃허브링크 https://github.com/rladustn1467-sketch
 - 

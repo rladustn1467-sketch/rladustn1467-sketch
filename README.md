@@ -4,6 +4,7 @@
 
 ## 만들어 본 게임
 https://arcade.makecode.com/S85322-72037-08507-30921   
+*메이크 코드 아케이드*를 통해 만든 게임입니다. 
 
 <img width="638" height="747" alt="Screenshot 2026-08-11 142353" src="https://github.com/user-attachments/assets/dc96901c-93dd-4861-98fb-aa7efe41fb56" />
 

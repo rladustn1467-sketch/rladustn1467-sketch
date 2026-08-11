@@ -6,13 +6,14 @@
 - 순천
 - 묵호      
 내려쓰기 내려쓰기
-## 가나다라
-1. 마바사
-2. 아자차카
-3. 타파하   
-가나다라   
-마바사아   
-아자차카
+## 영화보는 걸 좋아합니다 
+### 최근에 재밌게 본 영화는
+**오디세이**
+<img width="406" height="461" alt="Screenshot 2026-08-11 140625" src="https://github.com/user-attachments/assets/69cafb77-ea80-4337-b27c-47b0ed3342c0" />
+
+**스파이더맨 브랜드 뉴 데이**
+<img width="266" height="382" alt="Screenshot 2026-08-11 140703" src="https://github.com/user-attachments/assets/78c373b7-4652-43a1-99b7-95d207a9f43f" />
+
 
 ## 그림 넣기
 1. *그림*을 넣어 보겠습니다 

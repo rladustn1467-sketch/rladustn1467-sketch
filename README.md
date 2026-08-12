@@ -14,7 +14,9 @@ https://arcade.makecode.com/50182-50048-08094-09204
 *메이크 코드 아케이드*를 통해 만든 팩맨 스타일의 게임입니다.    
 <img width="628" height="740" alt="Screenshot 2026-08-11 142825" src="https://github.com/user-attachments/assets/dcb91ed5-5d06-498e-ac77-01d25c220c91" />
 
-
+## 사이트 
+### RAG 문서 검색 사이트   
+http://127.0.0.1:8714/
 
 ## 영화보는 걸 좋아합니다 
 ### 최근에 재밌게 본 영화는

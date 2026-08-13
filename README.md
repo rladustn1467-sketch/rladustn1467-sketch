@@ -14,8 +14,10 @@ https://arcade.makecode.com/50182-50048-08094-09204
 *메이크 코드 아케이드*를 통해 만든 팩맨 스타일의 게임입니다.    
 <img width="628" height="740" alt="Screenshot 2026-08-11 142825" src="https://github.com/user-attachments/assets/dcb91ed5-5d06-498e-ac77-01d25c220c91" />
 
-
-
+## 아이디어   
+### 영화 감상 기록 사이트/앱   
+https://bogus-insect-vi6yapp.gamma.site/   
+   
 ## 영화보는 걸 좋아합니다 
 ### 최근에 재밌게 본 영화는
 **1. 오디세이** 👍   
@@ -25,7 +27,7 @@ https://arcade.makecode.com/50182-50048-08094-09204
 <img width="266" height="382" alt="Screenshot 2026-08-11 140703" src="https://github.com/user-attachments/assets/78c373b7-4652-43a1-99b7-95d207a9f43f" />
  
 
-## 아이디어
+
 
 ## 공부중
 코딩 자격증 [https://github.com/rladustn1467-sketch/](https://github.com/rladustn1467-sketch/coding)

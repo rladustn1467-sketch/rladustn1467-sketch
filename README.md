@@ -17,6 +17,8 @@ https://arcade.makecode.com/50182-50048-08094-09204
 ## 아이디어   
 ### 영화 감상 기록 사이트/앱   
 https://bogus-insect-vi6yapp.gamma.site/   
+https://github.com/rladustn1467-sketch/gitgit   
+
    
 ## 영화보는 걸 좋아합니다 
 ### 최근에 재밌게 본 영화는
